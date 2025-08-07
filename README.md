@@ -151,12 +151,11 @@ This project strengthened both my technical skills and my ability to think from 
 
 ## About Me
 
-I'm an aspiring data analyst with a strong interest in using data to solve real-world problems and drive better decision-making. I recently started building hands-on projects to strengthen my skills in SQL, Excel, and visualization tools like Tableau and Power BI.
+I'm an aspiring data analyst with a strong interest in using data to solve real-world problems and drive better decision-making. I recently started building hands-on projects to strengthen my skills in Python, SQL, Excel and visualization tools like Tableau and Power BI.
 
-This project is part of my learning journey where I’ve applied data analysis concepts to a business-like scenario. My focus is on building a solid foundation in data cleaning, querying, and storytelling with dashboards and I'm continuously working to improve both my technical skills and business understanding.
+This project is part of my learning journey where I’ve applied data analysis concepts to a business-like scenario.
 
 I'm excited to explore more real-world datasets, take on challenges and grow into a professional data analyst role. 
 
-## Final Note
+Thank you for reading!
 
-This project simulates how analysts work in a real-world financial environment — moving from raw dat
